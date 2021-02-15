@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ![Java](http://img.shields.io/badge/-Java-D4360E?style=flat-square&logo=java&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=php&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
+![Dart](https://img.shields.io/badge/-Dart-29B0EC?style=flat-square&logo=dart&logoColor=045496)
 ### Web
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ### Framework
 ![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-29B0EC?style=flat-square&logo=flutter&logoColor=045496)
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-011111?style=flat-square&logo=mongodb&logoColor=00ff00)
 ![MySQL](https://img.shields.io/badge/-MySQL-0091DF?style=flat-square&logo=mysql&logoColor=0091DF&labelColor=%23F7DF1C)
